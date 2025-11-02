@@ -6,7 +6,7 @@ Stockholm (eu-north-1) vs Virginia (us-east-1)
 
 A 48-hour comparative study of global cyber threat patterns
 
-Author: Tony Jokiranta |[LinkedIn](https://www.linkedin.com/in/tonyjokiranta/)
+Author: Tony Jokiranta | [LinkedIn](https://www.linkedin.com/in/tonyjokiranta/)
 
 ## Setup Overview
 | Component            | Details                                                            |

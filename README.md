@@ -6,7 +6,7 @@ Stockholm (eu-north-1) vs Virginia (us-east-1)
 
 A 48-hour comparative study of global cyber threat patterns
 
-Author: Tony Jokiranta |[LinkedIn](https://www.linkedin.com/in/tonyjokiranta/) | [Portfolio](https://www.tonyjokirantaportfolio.com/) Full project documentation on my portfolio blog
+Author: Tony Jokiranta |[LinkedIn](https://www.linkedin.com/in/tonyjokiranta/) | [Portfolio](https://www.tonyjokirantaportfolio.com/) 
 
 ## Setup Overview
 | Component            | Details                                                            |
@@ -79,4 +79,8 @@ Mix of cloud infrastructure (DigitalOcean, Palo Alto Networks, Google Cloud Plat
 
 ## Summary
 Virginia was hit harder, but Sweden remains a real target for advanced attack campaigns, my honeypot captured the noise and the bots, not the sopisticated attacks.
+
+---
+
+
   
